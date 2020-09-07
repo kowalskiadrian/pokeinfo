@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gamewave/static/css/main.d796b3ba.chunk.css",
+    "main.js": "/gamewave/static/js/main.05ecd2f3.chunk.js",
+    "main.js.map": "/gamewave/static/js/main.05ecd2f3.chunk.js.map",
+    "runtime-main.js": "/gamewave/static/js/runtime-main.32d7cbbf.js",
+    "runtime-main.js.map": "/gamewave/static/js/runtime-main.32d7cbbf.js.map",
+    "static/js/2.2691c0c0.chunk.js": "/gamewave/static/js/2.2691c0c0.chunk.js",
+    "static/js/2.2691c0c0.chunk.js.map": "/gamewave/static/js/2.2691c0c0.chunk.js.map",
+    "index.html": "/gamewave/index.html",
+    "precache-manifest.545f56f9047c6886ce9a1d1da1c8a73a.js": "/gamewave/precache-manifest.545f56f9047c6886ce9a1d1da1c8a73a.js",
+    "service-worker.js": "/gamewave/service-worker.js",
+    "static/css/main.d796b3ba.chunk.css.map": "/gamewave/static/css/main.d796b3ba.chunk.css.map",
+    "static/js/2.2691c0c0.chunk.js.LICENSE.txt": "/gamewave/static/js/2.2691c0c0.chunk.js.LICENSE.txt",
+    "static/media/pokeball.svg": "/gamewave/static/media/pokeball.66038e75.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32d7cbbf.js",
+    "static/js/2.2691c0c0.chunk.js",
+    "static/css/main.d796b3ba.chunk.css",
+    "static/js/main.05ecd2f3.chunk.js"
+  ]
+}
